@@ -1,0 +1,53 @@
+img {
+  width: 23px;
+  height: 23px;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+.vizitka {
+  display: flex;
+  align-items: center;
+  background-color: #fff6d6;
+  border: 2px solid #ddd;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 520px;
+  height: 220px;
+}
+h1,
+h2 {
+  margin: 0;
+}
+h1 {
+  font-family: lora;
+  font-style: italic;
+  margin-left: 15px;
+  margin-bottom: 5px;
+  color: #3c2b21;
+}
+p {
+  font-family: lora;
+  font-weight: 400;
+  font-size: 16px;
+  color: #3c2b21;
+  margin-left: 30px;
+}
+h2 {
+  font-family: lora;
+  font-style: italic;
+  font-size: 16px;
+  color: #3c2b21;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+.logo {
+  width: 200px;
+  height: 200px;
+  margin-right: 5px;
+  margin-left: -15px;
+  object-fit: cover;
+}
+.info {
+  flex: 1;
+}
